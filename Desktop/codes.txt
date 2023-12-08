@@ -1,0 +1,19 @@
+Optional<Employee>opt =                                                                code for factorial             
+elist.stream()                                                                         if(x==1)
+.reduce((e1,e2) -> e1.getHireDate().compareTo(e2.getHireData())<0? e1:e2);              return 1;
+                                                                                        else
+if(opt.ispresent()){                                                                    return x * factorial(x-1);
+Employee e = opt.get();                                                                   
+System.out.println(e); 
+}else{
+System.out.println("List is empty");
+}
+
+
+
+Stream<Integer>strm = Stream.of(12,45,76,2,8,90,6,8);
+strm.reduce( (x,y) -> x<y?x:y)
+.get();
+System.out.println(num);
+
+

@@ -1,0 +1,12 @@
+
+List :-
+
+   get(x)   x can be 0 to lst.size()-1 --> use only for loops
+
+   for(int i=0; i<lst.size();i++)
+   
+   lst.set(1,500) // change element at 1 to 500
+
+   add(s)   adds at end and lst.size()incremented
+   
+   add(3,s) // insert at position 3, all other elements move to right side

@@ -1,0 +1,32 @@
+2023-12-08 13:59:57,695 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-08 14:07:47,023 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bim:bookinventoryapp:0.0.1-SNAPSHOT @ C:\Users\mmutholl\Downloads\projects\CFMG-BIM\BookIM\bookinventoryapp\pom.xml.
+2023-12-08 14:07:49,381 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookinventoryapp/src/main/java
+2023-12-08 14:07:49,381 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookinventoryapp/src/main/resources
+2023-12-08 14:07:49,418 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookinventoryapp/src/main/resources
+2023-12-08 14:07:49,419 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookinventoryapp/src/test/java
+2023-12-08 14:07:49,420 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookinventoryapp/src/test/resources
+2023-12-08 14:07:50,010 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2023-12-08 14:07:51,715 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-08 14:07:51,738 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-08 14:07:51,745 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\mmutholl\Downloads\projects\CFMG-BIM\BookIM\bookinventoryapp\src\test\resources
+2023-12-08 14:08:40,432 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-12-08 14:12:05,403 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-08 14:12:52,603 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bim:bookinventoryapp:0.0.1-SNAPSHOT @ C:\Users\mmutholl\Downloads\projects\CFMG-BIM\BookIM\BookIM\bookinventoryapp\pom.xml.
+2023-12-08 14:12:54,331 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookinventoryapp/src/main/java
+2023-12-08 14:12:54,331 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookinventoryapp/src/main/resources
+2023-12-08 14:12:54,337 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookinventoryapp/src/main/resources
+2023-12-08 14:12:54,343 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookinventoryapp/src/test/java
+2023-12-08 14:12:54,344 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookinventoryapp/src/test/resources
+2023-12-08 14:12:54,998 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2023-12-08 14:12:55,674 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-08 14:12:55,697 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-08 14:12:55,704 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\mmutholl\Downloads\projects\CFMG-BIM\BookIM\BookIM\bookinventoryapp\src\test\resources
+2023-12-08 14:13:46,504 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-08 14:13:46,515 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-08 14:13:46,520 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\mmutholl\Downloads\projects\CFMG-BIM\BookIM\BookIM\bookinventoryapp\src\test\resources
+2023-12-08 14:14:25,895 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-08 14:14:25,900 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-08 14:14:25,907 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\mmutholl\Downloads\projects\CFMG-BIM\BookIM\BookIM\bookinventoryapp\src\test\resources
+2023-12-08 14:19:47,904 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-08 14:19:47,913 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-08 14:19:47,917 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\mmutholl\Downloads\projects\CFMG-BIM\BookIM\BookIM\bookinventoryapp\src\test\resources
